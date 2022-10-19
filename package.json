@@ -22,7 +22,7 @@
     "node",
     "setup"
   ],
-  "author": "",
+  "author": "test",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.10.0"
